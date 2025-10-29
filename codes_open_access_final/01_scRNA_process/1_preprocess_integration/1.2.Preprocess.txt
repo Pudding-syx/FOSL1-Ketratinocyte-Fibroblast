@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH -J nbconvert
+#SBATCH -N 1
+#SBATCH -p normal
+#SBATCH --exclusive
+#SBATCH -n 48
+#SBATCH --mem 256g
+#SBATCH -o %x_%j.out
+#SBATCH -e %x_%j.err
+
+jupyter nbconvert --execute --to notebook --inplace 1.2.Preprocess.ipynb

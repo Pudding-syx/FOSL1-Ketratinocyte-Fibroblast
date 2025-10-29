@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: myutils
+Version: 0.1.1
+Summary: myutils for bioinformatics analysis
+Home-page: http://baidu.com/
+Author: Zhizhuo Chen
+Author-email: czz19@mails.tsinghua.edu.cn
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: summary

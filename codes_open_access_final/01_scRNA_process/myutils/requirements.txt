@@ -1,0 +1,7 @@
+pandas
+matplotlib
+numpy
+scanpy
+seaborn
+scikit-learn
+phenograph
